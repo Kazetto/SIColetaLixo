@@ -9,4 +9,5 @@
 - Verificar se o lixo ficou para trás
 - Verificar se a quantidade de total de lixo
 - Checar se caminhão chegou a empresa
+- Avisar outro caminhão que coletar o lixo(Se tiver a capacidade cheio)
 - Entregar o histórico
