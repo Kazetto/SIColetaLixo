@@ -1,8 +1,12 @@
 #Sistema do coleta de lixo:
 - ID cada caminhão
 - Identificar o rotas de coleta
+- Checar o histórico do coletar e que deixado para trás
 - Indentificar o tempo real do caminhão(GPS)
+- Informar á capacidade tiver cheio, avisar outro caminhão
 - Capacidade de coleta do lixo (Cheio ou Vazio)
+- Monitoramento de sistema
 - Verificar se o lixo ficou para trás
 - Verificar se a quantidade de total de lixo
 - Checar se caminhão chegou a empresa
+- Entregar o histórico
